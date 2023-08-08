@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats-nine-virid-48.vercel.app/api?username=yijiudd&theme=radical)
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=yijiudd)](https://github.com/anuraghazra/github-readme-stats)
+
 
