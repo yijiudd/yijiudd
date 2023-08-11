@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats-nine-virid-48.vercel.app/api?username=yijiudd&theme=radical)
 
 
