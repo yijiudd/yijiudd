@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm starting to build self portfolio
+- I'm starting to write some blogs
 - I’m currently working on the project of Human Pose Estimation
 - I’m currently learning Machine learning
 - I'm trying to study Japanese right now
