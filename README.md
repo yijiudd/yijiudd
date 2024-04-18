@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm starting to write some blogs
+- I'm interested in LLM these days
+- I am researching model compression
 - I’m currently working on the project of Human Pose Estimation
 - I’m currently learning Machine learning
 - I'm trying to study Japanese right now
